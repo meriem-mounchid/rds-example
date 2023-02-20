@@ -1,0 +1,11 @@
+misaki.csv
+myboomi.cer
+cert.pem
+key-pair.pem
+.terraform*
+aws*
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+log.txt
+get_public_ip.sh
